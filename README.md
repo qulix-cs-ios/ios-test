@@ -15,7 +15,7 @@
 ## Ограничения, стек технологий:
 
 * Xcode >= 13.0
-* Minimum iOS Deployment Target: 11.0
+* Minimum iOS Deployment Target: 13.0
 * Swift 
 * Foundation
 * UIKit
